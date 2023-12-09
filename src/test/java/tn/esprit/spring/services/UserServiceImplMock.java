@@ -1,6 +1,6 @@
-//package tn.esprit.spring.services;
+package tn.esprit.spring.services;
 
-/*import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
@@ -55,4 +55,3 @@ class UserServiceImplMock {
 	}
 
 }
-*/
